@@ -17,7 +17,25 @@
     "HomepageUrl": "https://github.com/Telyl/AddedFeats",
     "Tags": [ "Content", "Gameplay" ]
   },
-
+  
+  {
+    "Name": "Onmi's Mod",
+    "Author": "Onmi",
+    "Id": {
+      "Id": "BoonOfIomedaeWrath",
+      "Type": "Owlcat"
+    },
+    "Service": {
+      "GitHub": {
+        "Owner": "Onmi",
+        "RepoName": "OnmiMod"
+      }
+    },
+    "About": "Adds the Boon of Iomedae for Rejecting Nocticula's Profane Ascension",
+    "HomepageUrl": "https://github.com/OnmiKhaos/OnmiMod",
+    "Tags": [ "Gameplay" ]
+  },
+  
   {
     "Name": "Additional Hotkeys",
     "Author": "apocc",
